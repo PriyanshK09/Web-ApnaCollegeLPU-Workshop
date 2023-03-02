@@ -1,0 +1,41 @@
+# Consensus Algorithm
+    » POW : Proof of Work
+    » POS : Proof of Stake
+
+# How does Bitcoin Works?
+    » Bitcoin is a decentralized digital currency that enables instant payments to anyone, anywhere in the world.
+      Bitcoin uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of bitcoins is carried out collectively by the network.
+      Bitcoin is open-source; its design is public, nobody owns or controls Bitcoin and everyone can take part.
+      Through many of its unique properties, Bitcoin allows exciting uses that could not be covered by any previous payment system.
+
+# Use Cases : Supply Chain Management
+    » Blockchain technology can be used to track the movement of goods from the point of origin to the point of sale.
+    » The technology can be used to track the movement of goods from the point of origin to the point of sale.
+    » The technology can be used to track the movement of goods from the point of origin to the point of sale.
+    » The technology can be used to track the movement of goods from the point of origin to the point of sale.
+
+# Prominent Usecases and Projects based on Blockchain
+    » Audius
+    » Brave
+    » Step App
+    » Uniswap
+    » ENS
+
+# How does domain work?
+    » Domain Name System (DNS) is a hierarchical decentralized naming system for computers, services, or any resource connected to the Internet or a private network.
+
+# What is Web3?
+    » Web3 is a decentralized web that is built on top of the blockchain technology.
+    » Features :
+        - You own your data.
+        - Enables the creation of decentralized applications (dApps) that are secure, transparent and autonomous.
+        - More open and decentralized than the current web.
+
+-------------------------------------------------------------------------------------------
+
+# Microagent
+    » Microagent is a decentralized platform that allows users to create and manage their own digital identity.
+        - What is decentralization? Decentralization is the process of distributing or dispersing functions, powers, people or things away from a central location or authority.
+        - What is a digital identity? A digital identity is a set of attributes that uniquely identify a person or an organization.
+
+    
