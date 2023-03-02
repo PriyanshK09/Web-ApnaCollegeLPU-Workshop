@@ -38,4 +38,7 @@
         - What is decentralization? Decentralization is the process of distributing or dispersing functions, powers, people or things away from a central location or authority.
         - What is a digital identity? A digital identity is a set of attributes that uniquely identify a person or an organization.
 
+    » Fetch.ai Microagents are autonomous agents that can be used to represent any entity in the world.
+    » Also used in Automation, Supply Chain, and other industries.
+
     
